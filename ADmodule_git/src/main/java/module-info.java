@@ -1,0 +1,2 @@
+module ADmodule_git {
+}
