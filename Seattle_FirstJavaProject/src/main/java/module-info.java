@@ -1,0 +1,2 @@
+module Seattle_FirstJavaProject {
+}
